@@ -1,1 +1,8 @@
-# jlee-prinny_CS230_OperatingPlatforms
+# CS230 Final Project Repository
+
+## Who is the client, what type of software did they want designed, and how did the software design document process go?
+The client is The Gaming Room, a company who wished to expand their game, Draw It or Lose It, from an Android-only app to a web-based application that can be played on many different platforms and supports multiple unique game instances, teams, and players. The design needed to be scalable and compatible across various platforms with a focus on security, memory management, and reliable communication in a distributed environment. In developing this documentation, I believe I excelled in clearly articulating the technical aspects, particularly in the recommendations for operating systems architectures and security measures. What I found useful in working through the design document creation process is that the organization of it allowed me to identify goals and potential challenges early on. If I were to revise any section of my document, I would choose to revise the Storage Management section by exploring and comparing more storage solutions; I'd consider factors like performance, scalability, and backup options in greater detail to assure that the most optimal storage solution for the application is selected. Understanding and implementing the user's needs was key to guarantee the software was both functional and user-friendly, highlighting the importance of user-centric design. Moving forward, I would continue to use structured approaches like UML diagrams and design patterns to analyze and design similar software applications efficiently.
+
+
+## Repository Link
+[Repository Link](https://github.com/jlee-prinny/jlee-prinny_CS230_OperatingPlatforms/tree/main)
